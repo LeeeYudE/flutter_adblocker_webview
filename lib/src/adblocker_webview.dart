@@ -2,7 +2,7 @@ import 'package:adblocker_webview/src/adblocker_webview_controller.dart';
 import 'package:adblocker_webview/src/domain/entity/host.dart';
 import 'package:adblocker_webview/src/domain/mapper/host_mapper.dart';
 import 'package:flutter/material.dart';
-import 'package:flutter_inappwebview/flutter_inappwebview.dart';
+import 'package:zikzak_inappwebview/zikzak_inappwebview.dart';
 
 /// A webview implementation of in Flutter that blocks most of the ads that
 /// appear inside of the webpages.

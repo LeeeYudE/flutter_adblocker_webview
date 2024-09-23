@@ -1,5 +1,5 @@
 import 'package:adblocker_webview/src/domain/entity/host.dart';
-import 'package:flutter_inappwebview/flutter_inappwebview.dart';
+import 'package:zikzak_inappwebview/zikzak_inappwebview.dart';
 
 List<ContentBlocker> mapHostToContentBlocker(List<Host> hostList) {
   return hostList

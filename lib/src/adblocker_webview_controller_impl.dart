@@ -4,7 +4,7 @@ import 'package:adblocker_webview/src/adblocker_webview_controller.dart';
 import 'package:adblocker_webview/src/data/repository/adblocker_repository_impl.dart';
 import 'package:adblocker_webview/src/domain/entity/host.dart';
 import 'package:adblocker_webview/src/domain/repository/adblocker_repository.dart';
-import 'package:flutter_inappwebview/flutter_inappwebview.dart';
+import 'package:zikzak_inappwebview/zikzak_inappwebview.dart';
 
 ///Implementation for [AdBlockerWebviewController]
 class AdBlockerWebviewControllerImpl implements AdBlockerWebviewController {
